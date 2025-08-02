@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+scikit-learn
+matplotlib
+japanize-matplotlib
+seaborn
+imblearn
+setuptools
